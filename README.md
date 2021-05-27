@@ -1,5 +1,9 @@
-Includes a .gitIgnore and .gitAttributes for Unreal projects.
+# Quest For Valor
 
-***Make sure you enable GIT LFS on your repo.***
+## Game information:
 
-The base project students will clone from in the Level Design Pipeline class to work from.
+* Quest For Valor is an adventure game being developed internal for level design students at VFS.
+
+## About:
+
+* Base Project developed by VFS teacher, my task is to make a full level for this game, and that is what this repo is.
